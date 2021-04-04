@@ -1,4 +1,4 @@
-#SQL CASE STUDY FOR COUNTRY CLUB#
+# SQL CASE STUDY FOR COUNTRY CLUB #
 
 There are a total of 14 questions with the following steps involved:
 
