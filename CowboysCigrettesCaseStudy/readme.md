@@ -6,4 +6,6 @@ You're working in the US federal government as a data scientist in the Health an
 
 The results of your analysis will be used as part of a major report relating public health and local economics, and will be combined with other studies executed by your colleagues to provide important government advice.  
 
+![Link for the Jupiter Notebook](https://github.com/jayguptacal/miniprojects/blob/main/CowboysCigrettesCaseStudy/Cowboy%20Cigarettes%20Case%20Study%20-%20Tier%203.ipynb)
+
 
